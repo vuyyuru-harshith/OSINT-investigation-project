@@ -1,4 +1,9 @@
-ID,Source Type,Source Name,URL,Date Accessed,Information Obtained,Reliability
-S001,Official Website,Company Website,URL,2026-09-17,Company information,High
-S002,Annual Report,Company Annual Report,URL,2026-09-17,Financial information,High
-S003,News,News Organization,URL,2026-09-17,Company event,Medium
+ID,Source Type,Source Name,Information Obtained,Reliability,Date Accessed
+S001,Official Website,Infosys Corporate Website,Company overview and business information,High,2026-09-17
+S002,Official Website,Infosys About Us,Company history and corporate information,High,2026-09-17
+S003,Annual Report,Infosys Annual Report FY2026,Leadership employees financial information,High,2026-09-17
+S004,Financial Results,Infosys FY2026 Results,Revenue profit margins and financial performance,High,2026-09-17
+S005,Investor Information,Infosys Investor Relations,Stock exchange and investor information,High,2026-09-17
+S006,Official Website,Infosys Locations,Global presence and locations,High,2026-09-17
+S007,News,Reputable Business News Source,Recent Infosys developments,Medium,2026-09-17
+S008,Public Technology Source,Technology Identification Source,Publicly observable technology information,Medium,2026-09-17
